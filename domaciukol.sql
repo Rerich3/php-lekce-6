@@ -1,2 +1,4 @@
+//ukol 2
 
-    DELETE s FROM subject s WHERE s.name = 'Biology';
+select ps.pupil_id, ps.grade from pupil_subject ps where grade = 5
+
